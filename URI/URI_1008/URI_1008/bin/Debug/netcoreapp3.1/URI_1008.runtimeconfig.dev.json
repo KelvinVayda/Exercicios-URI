@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TAYGARA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TAYGARA\\.nuget\\packages",
+      "C:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}

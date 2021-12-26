@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Extremamente_Basico/1.0.0": {
+        "runtime": {
+          "Extremamente_Basico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extremamente_Basico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

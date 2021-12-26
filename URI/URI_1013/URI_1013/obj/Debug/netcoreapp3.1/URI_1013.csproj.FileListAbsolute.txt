@@ -1,0 +1,14 @@
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\bin\Debug\netcoreapp3.1\URI_1013.exe
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\bin\Debug\netcoreapp3.1\URI_1013.deps.json
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\bin\Debug\netcoreapp3.1\URI_1013.runtimeconfig.json
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\bin\Debug\netcoreapp3.1\URI_1013.runtimeconfig.dev.json
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\bin\Debug\netcoreapp3.1\URI_1013.dll
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\bin\Debug\netcoreapp3.1\URI_1013.pdb
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\obj\Debug\netcoreapp3.1\URI_1013.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\obj\Debug\netcoreapp3.1\URI_1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\obj\Debug\netcoreapp3.1\URI_1013.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\obj\Debug\netcoreapp3.1\URI_1013.AssemblyInfo.cs
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\obj\Debug\netcoreapp3.1\URI_1013.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\obj\Debug\netcoreapp3.1\URI_1013.dll
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\obj\Debug\netcoreapp3.1\URI_1013.pdb
+C:\temp\ws-vs2019\VS\TESTE\URI\URI_1013\URI_1013\obj\Debug\netcoreapp3.1\URI_1013.genruntimeconfig.cache

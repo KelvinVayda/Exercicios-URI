@@ -1,0 +1,14 @@
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\bin\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.exe
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\bin\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.deps.json
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\bin\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.runtimeconfig.json
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\bin\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.runtimeconfig.dev.json
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\bin\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.dll
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\bin\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.pdb
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\obj\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\obj\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\obj\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\obj\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.AssemblyInfo.cs
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\obj\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\obj\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.dll
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\obj\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.pdb
+C:\Users\Kelvin\source\repos\URI_1019_Conversao_De_Tempo\URI_1019_Conversao_De_Tempo\obj\Debug\netcoreapp3.1\URI_1019_Conversao_De_Tempo.genruntimeconfig.cache

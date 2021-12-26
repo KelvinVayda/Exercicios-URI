@@ -1,0 +1,13 @@
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\bin\Debug\netcoreapp3.1\URI_1006.exe
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\bin\Debug\netcoreapp3.1\URI_1006.deps.json
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\bin\Debug\netcoreapp3.1\URI_1006.runtimeconfig.json
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\bin\Debug\netcoreapp3.1\URI_1006.runtimeconfig.dev.json
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\bin\Debug\netcoreapp3.1\URI_1006.dll
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\bin\Debug\netcoreapp3.1\URI_1006.pdb
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\obj\Debug\netcoreapp3.1\URI_1006.csproj.AssemblyReference.cache
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\obj\Debug\netcoreapp3.1\URI_1006.AssemblyInfoInputs.cache
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\obj\Debug\netcoreapp3.1\URI_1006.AssemblyInfo.cs
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\obj\Debug\netcoreapp3.1\URI_1006.csproj.CoreCompileInputs.cache
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\obj\Debug\netcoreapp3.1\URI_1006.dll
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\obj\Debug\netcoreapp3.1\URI_1006.pdb
+E:\ws-vs2019\TESTE\URI\URI_1006\URI_1006\obj\Debug\netcoreapp3.1\URI_1006.genruntimeconfig.cache
