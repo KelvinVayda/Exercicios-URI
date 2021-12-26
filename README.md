@@ -1,2 +1,2 @@
-# Exercicios-URI
- Exercícios do site URI Judge
+# Exercicios do Site URI Judge Resolvidos 📖
+ * Resolução de alguns exercícios do Site URI Judge.
