@@ -1,0 +1,1 @@
+## Exercício Simples com o uso de Estrutura While
